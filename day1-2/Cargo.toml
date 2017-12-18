@@ -1,0 +1,14 @@
+[package]
+name = "day1-2"
+version = "0.1.0"
+authors = ["Mikael Zayenz Lagerkvist <zayenz@gmail.com>"]
+
+[dependencies]
+aoc2017 = { git = "https://github.com/zayenz/advent-of-code-2017" }
+failure = "0.1.1"
+strum = "0.8.0"
+strum_macros = "0.8.0"
+
+
+[dev-dependencies]
+assert_cli = "0.5"
