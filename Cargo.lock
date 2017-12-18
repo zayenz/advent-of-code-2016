@@ -118,6 +118,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "day2-2"
+version = "0.1.0"
+dependencies = [
+ "aoc2017 0.1.0 (git+https://github.com/zayenz/advent-of-code-2017)",
+ "assert_cli 0.5.4 (registry+https://github.com/rust-lang/crates.io-index)",
+ "failure 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
+ "strum 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "strum_macros 0.8.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "dbghelp-sys"
 version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
